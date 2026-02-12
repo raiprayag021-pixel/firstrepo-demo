@@ -1,4 +1,4 @@
 # firstrepo-demo
 this is my first git repo
 <br>
-Author- Prayag rai
+Author- Prayag rai(KALAR)
